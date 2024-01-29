@@ -11,6 +11,7 @@ body {
 	align-items: center;
 	padding: 0 80px;
 	border-bottom: 1px solid #282828;
+	
 }
 
 .cabecalho .logo {
@@ -21,6 +22,7 @@ body {
 .cabecalho .menu {
 	display: flex;
 	gap: 30px;
+	
 }
 
 .cabecalho .menu li a {
@@ -29,6 +31,7 @@ body {
 	font-weight: bolder;
 	font-size: 15px;
 	font-family: "Chalet";
+
 }
 
 .cabecalho .menu li a:hover {
